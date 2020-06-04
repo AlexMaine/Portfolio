@@ -16,7 +16,7 @@ body {
 	line-height: 2;
 	margin: 0;
 	color: #999;
-	background-image: url(../img/poly.jpg); 
+	background-image: url(../img/final.jpg); 
 }
 
 h1, h2, h3 {
@@ -57,7 +57,7 @@ a {
 
 header {
 	padding: 50px;
-	background-image:url(img/fond.jpg);
+	background-image:url(img/informatique.jpg);
 }
 
 header > a {
